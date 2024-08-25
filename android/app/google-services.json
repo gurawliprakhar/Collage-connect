@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443807882531",
+    "project_id": "ugiconnect-f3e0f",
+    "storage_bucket": "ugiconnect-f3e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443807882531:android:cd94c3777efcb4aec68096",
+        "android_client_info": {
+          "package_name": "com.example.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443807882531-eallqqobbfq4l75io80gkqub9f3mt44l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaeLLvbvQX-7R9u339922wumMqnTBm3oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443807882531-eallqqobbfq4l75io80gkqub9f3mt44l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
